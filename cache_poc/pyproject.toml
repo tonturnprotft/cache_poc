@@ -1,0 +1,10 @@
+# pyproject.toml
+[project]
+name = "cache_poc"
+version = "0.0.1"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

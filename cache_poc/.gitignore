@@ -1,0 +1,8 @@
+.venv/
+data/
+models/
+*.parquet
+*.gz
+*.tar.gz
+__pycache__/
+.ipynb_checkpoints/
